@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_logout"
+        android:title="Home"
+        android:icon="@drawable/home_24dp_e3e3e3_fill0_wght400_grad0_opsz24" />
+    <item
+        android:id="@+id/menu_profile"
+        android:title="Balance Sheet"
+        android:icon="@drawable/account_balance_wallet_24dp_fff_fill0_wght400_grad0_opsz24" />
+
+    <item
+        android:id="@+id/menu_settings"
+        android:title="Calender"
+        android:icon="@drawable/calendar_month_24dp_fff_fill0_wght400_grad0_opsz24" />
+
+
+</menu>
